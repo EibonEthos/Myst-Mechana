@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "A mod for including Myst items and machines.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EibonEthos"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

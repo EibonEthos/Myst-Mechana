@@ -1,0 +1,35 @@
+
+//ITEMS
+item.item_nara.name=Nara Piece
+item.item_dni_handle.name=D'ni Rod
+item.item_deretheni.name=Deretheni
+item.item_dslag.name=Diorite Slag
+item.item_gslag.name=Granite Slag
+item.item_aslag.name=Andesite Slag
+item.item_mslag.name=Mixed Slag
+
+//BLOCKS
+tile.block_nara.name=§7Nara§r
+
+//TOOLS
+item.tool_dni_axe.name=Dn'i Hatchet
+item.tool_dni_hoe.name=Dn'i Planter
+item.tool_dni_pickaxe.name=Dn'i Pick
+item.tool_dni_shovel.name=Dn'i Shovel
+item.tool_dni_sword.name=Dn'i Blade
+
+//ARMOR
+item.armor_maintain_helm.name=Maintainer's Helm
+item.armor_maintain_chest.name=Maintainer's Breastplate
+item.armor_maintain_legs.name=Maintainer's Pants
+item.armor_maintain_boots.name=Maintainer's Greaves
+
+//MACHINES
+
+//tabs
+itemGroup.mystmechana=Myst Mechana
+
+//ORES
+tile.ore_overworld_deretheni.name=§7Stone Ore§r
+tile.ore_end_deretheni.name=§8Curious Ore§r
+tile.ore_nether_deretheni.name=§4Jet-Black Ore§r

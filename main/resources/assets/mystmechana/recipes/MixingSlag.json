@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+		{
+			"item": "mystmechana:item_gslag"
+		},
+		{
+			"item": "mystmechana:item_aslag"
+		},
+		{
+			"item": "mystmechana:item_dslag"
+		}
+	],
+	"result":
+	{
+		"item": "mystmechana:item_mslag",
+		"count": 1
+	}
+}

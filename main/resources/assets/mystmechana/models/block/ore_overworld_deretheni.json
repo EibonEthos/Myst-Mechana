@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "mystmechana:block/ore_overworld_deretheni"
+   }
+}

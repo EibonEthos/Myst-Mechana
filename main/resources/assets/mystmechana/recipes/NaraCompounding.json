@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"NNN",
+		"NNN",
+		"NNN"
+	],
+	"key":
+	{
+		"N":
+		{
+			"item": "mystmechana:item_nara"
+		}
+	},
+	"result":
+	{
+		"item": "mystmechana:block_nara",
+		"count": 1
+	}
+}

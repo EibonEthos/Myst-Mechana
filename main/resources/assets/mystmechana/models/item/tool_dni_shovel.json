@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "mystmechana:item/tool/tool_dni_shovel"
+   }
+}

@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		" NN",
+		" D ",
+		" D "
+	],
+	"key":
+	{
+		"N":
+		{
+			"item": "mystmechana:item_nara"
+		},
+		"D":
+		{
+			"item": "mystmechana:item_dni_handle"
+		}
+	},
+		"result":
+		{
+			"item": "mystmechana:tool_dni_hoe",
+			"count": 1
+		}
+}

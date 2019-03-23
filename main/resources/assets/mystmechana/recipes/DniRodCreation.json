@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"D",
+		"D",
+		"D"
+	],
+	"key":
+	{
+		"D":
+		{
+			"item": "mystmechana:item_deretheni"
+		}
+	},
+	"result":
+	{
+		"item": "mystmechana:item_dni_handle",
+		"count": 1
+	}
+}
